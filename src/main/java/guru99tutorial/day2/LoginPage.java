@@ -53,6 +53,7 @@ public class LoginPage {
      * @return the LoginPage class instance.
      */
     public LoginPage setUidField(String userId) {
+    	uidField.clear();
         uidField.sendKeys(userId);
         return this;
     }
@@ -63,6 +64,7 @@ public class LoginPage {
      * @return the LoginPage class instance.
      */
     public LoginPage setPasswordField(String password) {
+    	passwordField.clear();
         passwordField.sendKeys(password);
         return this;
     }

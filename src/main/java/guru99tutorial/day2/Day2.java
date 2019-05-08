@@ -30,7 +30,7 @@ public class Day2 {
 	public static void main(String[] args) {
 		WebDriver driver = Util.getDriver();
 		
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(Util.Timeout, TimeUnit.SECONDS);
 		
 		/* get the logon page */
 		driver.get(Util.URL);
