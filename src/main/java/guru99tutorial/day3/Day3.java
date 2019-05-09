@@ -61,6 +61,7 @@ public class Day3 {
 		
 		if ( data[0].length < 3) {
 			print("Not enough columns in test data spreadsheet");
+			return;
 		}
 		
 		for( int i = 1; i <= data.length; i++ ) {
