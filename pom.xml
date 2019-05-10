@@ -3,6 +3,13 @@
   <groupId>guru99tutorial</groupId>
   <artifactId>guru99tutorial</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <repositories>
+	<repository>
+	    <id>jcenter</id>
+	    <name>bintray</name>
+	    <url>http://jcenter.bintray.com</url>
+	</repository>
+  </repositories>
   <dependencies>
     <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
@@ -19,5 +26,10 @@
         <artifactId>poi-ooxml</artifactId>
     	<version>4.1.0</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.testng</groupId>
+ 		<artifactId>testng</artifactId>
+  		<version>6.10</version>
+	</dependency>
   </dependencies>
 </project>

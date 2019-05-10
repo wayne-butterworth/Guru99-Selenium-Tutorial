@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35247" started-at="2019-05-10T01:23:55Z" finished-at="2019-05-10T01:24:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35247" started-at="2019-05-10T01:23:55Z" finished-at="2019-05-10T01:24:30Z">
+      <class name="guru99tutorial.day4.Day4">
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="7520" started-at="2019-05-10T11:23:55Z" finished-at="2019-05-10T11:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="1793" started-at="2019-05-10T11:24:03Z" data-provider="TestData" finished-at="2019-05-10T11:24:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr193327]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AsYvyhU]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[t]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="365" started-at="2019-05-10T11:24:05Z" finished-at="2019-05-10T11:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="5968" started-at="2019-05-10T11:24:05Z" finished-at="2019-05-10T11:24:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="807" started-at="2019-05-10T11:24:11Z" data-provider="TestData" finished-at="2019-05-10T11:24:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AsYvyhU]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="1562" started-at="2019-05-10T11:24:12Z" finished-at="2019-05-10T11:24:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="5807" started-at="2019-05-10T11:24:13Z" finished-at="2019-05-10T11:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="871" started-at="2019-05-10T11:24:19Z" data-provider="TestData" finished-at="2019-05-10T11:24:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr193327]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="1365" started-at="2019-05-10T11:24:20Z" finished-at="2019-05-10T11:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="5894" started-at="2019-05-10T11:24:21Z" finished-at="2019-05-10T11:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="935" started-at="2019-05-10T11:24:27Z" data-provider="TestData" finished-at="2019-05-10T11:24:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="1609" started-at="2019-05-10T11:24:28Z" finished-at="2019-05-10T11:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guru99tutorial.day4.Day4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
