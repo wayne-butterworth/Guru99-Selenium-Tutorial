@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35247" started-at="2019-05-10T01:23:55Z" finished-at="2019-05-10T01:24:30Z">
+  <suite name="Suite" duration-ms="43682" started-at="2019-05-12T22:10:48Z" finished-at="2019-05-12T22:11:32Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="35247" started-at="2019-05-10T01:23:55Z" finished-at="2019-05-10T01:24:30Z">
-      <class name="guru99tutorial.day4.Day4">
-        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="7520" started-at="2019-05-10T11:23:55Z" finished-at="2019-05-10T11:24:03Z">
+    <test name="Test" duration-ms="43682" started-at="2019-05-12T22:10:48Z" finished-at="2019-05-12T22:11:32Z">
+      <class name="guru99tutorial.day5.Day5">
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="setup" is-config="true" duration-ms="10196" started-at="2019-05-13T08:10:48Z" finished-at="2019-05-13T08:10:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="1793" started-at="2019-05-10T11:24:03Z" data-provider="TestData" finished-at="2019-05-10T11:24:05Z">
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="doTest" duration-ms="2328" started-at="2019-05-13T08:10:58Z" data-provider="TestDataDay5" finished-at="2019-05-13T08:11:01Z">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="365" started-at="2019-05-10T11:24:05Z" finished-at="2019-05-10T11:24:05Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="close" is-config="true" duration-ms="350" started-at="2019-05-13T08:11:01Z" finished-at="2019-05-13T08:11:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="5968" started-at="2019-05-10T11:24:05Z" finished-at="2019-05-10T11:24:11Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="setup" is-config="true" duration-ms="9383" started-at="2019-05-13T08:11:01Z" finished-at="2019-05-13T08:11:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="807" started-at="2019-05-10T11:24:11Z" data-provider="TestData" finished-at="2019-05-10T11:24:12Z">
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="doTest" duration-ms="905" started-at="2019-05-13T08:11:10Z" data-provider="TestDataDay5" finished-at="2019-05-13T08:11:11Z">
           <params>
             <param index="0">
               <value>
@@ -61,15 +61,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="1562" started-at="2019-05-10T11:24:12Z" finished-at="2019-05-10T11:24:13Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="close" is-config="true" duration-ms="1841" started-at="2019-05-13T08:11:11Z" finished-at="2019-05-13T08:11:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="5807" started-at="2019-05-10T11:24:13Z" finished-at="2019-05-10T11:24:19Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="setup" is-config="true" duration-ms="6363" started-at="2019-05-13T08:11:13Z" finished-at="2019-05-13T08:11:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="871" started-at="2019-05-10T11:24:19Z" data-provider="TestData" finished-at="2019-05-10T11:24:20Z">
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="doTest" duration-ms="1226" started-at="2019-05-13T08:11:19Z" data-provider="TestDataDay5" finished-at="2019-05-13T08:11:21Z">
           <params>
             <param index="0">
               <value>
@@ -90,15 +90,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="1365" started-at="2019-05-10T11:24:20Z" finished-at="2019-05-10T11:24:21Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="close" is-config="true" duration-ms="1798" started-at="2019-05-13T08:11:21Z" finished-at="2019-05-13T08:11:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="setup" is-config="true" duration-ms="5894" started-at="2019-05-10T11:24:21Z" finished-at="2019-05-10T11:24:27Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="setup" is-config="true" duration-ms="5986" started-at="2019-05-13T08:11:23Z" finished-at="2019-05-13T08:11:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="doTest" duration-ms="935" started-at="2019-05-10T11:24:27Z" data-provider="TestData" finished-at="2019-05-10T11:24:28Z">
+        <test-method status="PASS" signature="doTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="doTest" duration-ms="1300" started-at="2019-05-13T08:11:29Z" data-provider="TestDataDay5" finished-at="2019-05-13T08:11:30Z">
           <params>
             <param index="0">
               <value>
@@ -119,11 +119,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day4.Day4@326de728]" name="close" is-config="true" duration-ms="1609" started-at="2019-05-10T11:24:28Z" finished-at="2019-05-10T11:24:30Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:guru99tutorial.day5.Day5@326de728]" name="close" is-config="true" duration-ms="1898" started-at="2019-05-13T08:11:30Z" finished-at="2019-05-13T08:11:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- guru99tutorial.day4.Day4 -->
+      </class> <!-- guru99tutorial.day5.Day5 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
